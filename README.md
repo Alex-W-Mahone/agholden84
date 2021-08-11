@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alex_mahone
 - 👀 I’m interested in computer coding and creating smart systems
 - 🌱 I’m currently learning Python, C++
-- 💞
+- 💞 I love data science and controller design.
 - 📫
 
 <!---
